@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="168dp"
+        android:text="en un futuro cercano la humanidad dependera de un solo regimen social y ers cuando empezara la verdadera contienda por la salvacion de la humanidad"
+        android:id="@+id/textView3"
+        android:phoneNumber="false"
+        android:textAppearance="@color/abc_background_cache_hint_selector_material_dark"
+        android:background="@color/abc_primary_text_disable_only_material_dark" />
+
+</LinearLayout>
